@@ -1,0 +1,4 @@
+venv/
+chat_logs.db
+__pycache__/
+*.pyc
